@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>665.jpg</filename>
+	<path>D:\Skripsi\Pengenalan Rambu\Project\Pelatihan model 2\images\test\665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hati-hati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>190</ymin>
+			<xmax>137</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tikungan garda pertama kiri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>216</ymin>
+			<xmax>200</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peringatan tepi air</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>259</ymin>
+			<xmax>286</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,85 @@
+item {
+  id: 1
+  name: 'Akhir bangunan pemisah satu arah'
+}
+
+item {
+  id: 2
+  name: 'Dilarang berbalik arah'
+}
+
+item {
+  id: 3
+  name: 'Dilarang berhenti'
+}
+
+item {
+  id: 4
+  name: 'Dilarang parkir'
+}
+
+item {
+  id: 5
+  name: 'Hati-hati'
+}
+
+item {
+  id: 6
+  name: 'Tikungan garda pertama kiri'
+}
+
+item {
+  id: 7
+  name: 'Jalanan menanjak'
+}
+
+item {
+  id: 8
+  name: 'Jembatan'
+}
+
+item {
+  id: 9
+  name: 'Lampu isyarat'
+}
+
+item {
+  id: 10
+  name: 'Peringatan anak menyeberang'
+}
+
+item {
+  id: 11
+  name: 'Peringatan orang menyeberang'
+}
+
+item {
+  id: 12
+  name: 'Peringatan tepi air'
+}
+
+item {
+  id: 13
+  name: 'Simpang kanan dengan prioritas'
+}
+
+item {
+  id: 14
+  name: 'Simpang kiri dengan prioritas'
+}
+
+item {
+  id: 15
+  name: 'Tikungan ke kanan'
+}
+
+item {
+  id: 16
+  name: 'Tikungan ke kiri'
+}
+
+item {
+  id: 17
+  name: 'Tikungan tajam ke kiri'
+}
+

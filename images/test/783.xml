@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>783.jpg</filename>
+	<path>D:\Skripsi\Pengenalan Rambu\Project\Pelatihan model 2\images\test\783.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tikungan garda pertama kiri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>176</ymin>
+			<xmax>140</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peringatan tepi air</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>243</ymin>
+			<xmax>275</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

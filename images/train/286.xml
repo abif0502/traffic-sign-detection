@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>286.jpg</filename>
+	<path>D:\Skripsi\Pengenalan Rambu\Project\Pelatihan model 2\images\train\286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hati-hati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>202</ymin>
+			<xmax>166</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tikungan garda pertama kiri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>222</ymin>
+			<xmax>214</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peringatan tepi air</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>256</ymin>
+			<xmax>288</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

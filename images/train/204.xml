@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>204.jpg</filename>
+	<path>D:\Skripsi\Pengenalan Rambu\Project\Pelatihan model 2\images\train\204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jembatan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>55</ymin>
+			<xmax>126</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Simpang kiri dengan prioritas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>206</ymin>
+			<xmax>214</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
