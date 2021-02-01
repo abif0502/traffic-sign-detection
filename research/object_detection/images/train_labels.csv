@@ -1,0 +1,787 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+0.jpg,640,480,Tikungan ke kiri,248,326,269,349
+1.jpg,640,480,Dilarang parkir,112,206,136,229
+10.jpg,640,480,Peringatan anak menyeberang,246,197,272,226
+100.jpg,640,480,Jembatan,101,196,148,246
+101.jpg,640,480,Jalanan menanjak,151,236,171,262
+101.jpg,640,480,Tikungan ke kanan,214,250,226,266
+101.jpg,640,480,Hati-hati,343,257,357,273
+102.jpg,640,480,Simpang kanan dengan prioritas,267,309,286,329
+103.jpg,640,480,Dilarang parkir,110,181,135,207
+104.jpg,640,480,Dilarang parkir,112,119,151,161
+105.jpg,640,480,Simpang kiri dengan prioritas,179,184,219,224
+106.jpg,640,480,Lampu isyarat,159,248,189,280
+107.jpg,640,480,Tikungan tajam ke kiri,154,199,188,236
+108.jpg,640,480,Lampu isyarat,102,231,140,273
+109.jpg,640,480,Simpang kiri dengan prioritas,157,161,214,217
+11.jpg,640,480,Peringatan tepi air,166,214,204,256
+110.jpg,640,480,Lampu isyarat,244,231,261,246
+111.jpg,640,480,Simpang kanan dengan prioritas,206,293,239,324
+112.jpg,640,480,Peringatan tepi air,209,194,239,223
+113.jpg,640,480,Akhir bangunan pemisah satu arah,223,211,243,231
+114.jpg,640,480,Jembatan,163,156,215,208
+114.jpg,640,480,Simpang kiri dengan prioritas,208,221,236,250
+115.jpg,640,480,Tikungan tajam ke kiri,160,201,191,236
+116.jpg,640,480,Jalanan menanjak,1,201,36,237
+116.jpg,640,480,Tikungan ke kanan,133,231,149,253
+116.jpg,640,480,Hati-hati,299,251,314,267
+117.jpg,640,480,Hati-hati,109,121,179,189
+118.jpg,640,480,Dilarang berbalik arah,121,154,152,189
+119.jpg,640,480,Tikungan garda pertama kiri,111,204,159,246
+12.jpg,640,480,Dilarang parkir,111,132,148,170
+120.jpg,640,480,Hati-hati,254,226,280,250
+121.jpg,640,480,Dilarang parkir,109,134,149,172
+122.jpg,640,480,Peringatan orang menyeberang,146,213,185,250
+123.jpg,640,480,Dilarang berhenti,142,131,189,173
+124.jpg,640,480,Jembatan,166,161,220,216
+124.jpg,640,480,Simpang kiri dengan prioritas,206,227,234,252
+125.jpg,640,480,Simpang kiri dengan prioritas,252,226,276,251
+126.jpg,640,480,Tikungan tajam ke kiri,239,246,258,267
+127.jpg,640,480,Simpang kiri dengan prioritas,102,117,166,182
+128.jpg,640,480,Dilarang berhenti,86,76,149,139
+129.jpg,640,480,Jalanan menanjak,49,106,114,169
+13.jpg,640,480,Peringatan orang menyeberang,221,238,241,264
+130.jpg,640,480,Akhir bangunan pemisah satu arah,226,213,248,234
+131.jpg,640,480,Jembatan,219,179,264,221
+132.jpg,640,480,Tikungan ke kanan,226,234,245,251
+133.jpg,640,480,Jalanan menanjak,118,153,172,204
+134.jpg,640,480,Hati-hati,24,174,86,238
+134.jpg,640,480,Tikungan garda pertama kiri,129,213,174,262
+135.jpg,640,480,Peringatan anak menyeberang,172,262,204,295
+136.jpg,640,480,Tikungan ke kanan,156,214,190,246
+137.jpg,640,480,Tikungan tajam ke kiri,214,236,235,262
+138.jpg,640,480,Dilarang berhenti,148,236,171,261
+139.jpg,640,480,Jalanan menanjak,124,161,175,208
+14.jpg,640,480,Tikungan garda pertama kiri,71,162,119,214
+140.jpg,640,480,Jembatan,186,204,219,237
+141.jpg,640,480,Simpang kanan dengan prioritas,272,311,291,331
+142.jpg,640,480,Dilarang berhenti,161,144,207,185
+143.jpg,640,480,Hati-hati,141,209,178,252
+143.jpg,640,480,Tikungan garda pertama kiri,191,229,221,264
+144.jpg,640,480,Lampu isyarat,82,153,138,205
+145.jpg,640,480,Dilarang parkir,111,196,135,221
+146.jpg,640,480,Peringatan anak menyeberang,154,237,194,274
+147.jpg,640,480,Dilarang parkir,110,152,141,189
+148.jpg,640,480,Simpang kanan dengan prioritas,150,277,188,321
+149.jpg,640,480,Tikungan ke kanan,263,245,278,260
+15.jpg,640,480,Tikungan tajam ke kiri,226,240,245,262
+150.jpg,640,480,Jalanan menanjak,204,189,243,230
+151.jpg,640,480,Peringatan orang menyeberang,94,181,146,229
+152.jpg,640,480,Tikungan ke kiri,96,128,152,182
+153.jpg,640,480,Dilarang berbalik arah,13,74,64,125
+154.jpg,640,480,Dilarang parkir,112,204,133,226
+155.jpg,640,480,Jembatan,111,119,185,189
+155.jpg,640,480,Simpang kiri dengan prioritas,195,211,223,242
+156.jpg,640,480,Tikungan ke kanan,35,164,88,221
+157.jpg,640,480,Peringatan tepi air,40,99,114,169
+158.jpg,640,480,Peringatan orang menyeberang,189,238,214,264
+159.jpg,640,480,Peringatan anak menyeberang,197,270,224,296
+16.jpg,640,480,Jembatan,129,133,193,199
+16.jpg,640,480,Simpang kiri dengan prioritas,199,218,224,246
+160.jpg,640,480,Dilarang berbalik arah,101,142,140,181
+161.jpg,640,480,Peringatan tepi air,171,196,213,240
+161.jpg,640,480,Jembatan,238,254,258,274
+162.jpg,640,480,Dilarang berbalik arah,30,84,76,129
+163.jpg,640,480,Akhir bangunan pemisah satu arah,220,225,239,244
+164.jpg,640,480,Peringatan anak menyeberang,251,200,279,229
+165.jpg,640,480,Peringatan anak menyeberang,235,186,271,220
+166.jpg,640,480,Simpang kanan dengan prioritas,264,303,286,326
+167.jpg,640,480,Jembatan,301,179,337,218
+168.jpg,640,480,Simpang kiri dengan prioritas,176,178,218,220
+169.jpg,640,480,Jembatan,181,225,212,259
+17.jpg,640,480,Peringatan orang menyeberang,103,194,154,242
+170.jpg,640,480,Peringatan tepi air,205,207,234,234
+171.jpg,640,480,Simpang kiri dengan prioritas,51,75,134,159
+172.jpg,640,480,Lampu isyarat,90,150,140,203
+173.jpg,640,480,Akhir bangunan pemisah satu arah,224,219,246,242
+174.jpg,640,480,Simpang kiri dengan prioritas,169,174,216,224
+175.jpg,640,480,Tikungan ke kiri,229,221,251,242
+176.jpg,640,480,Tikungan ke kanan,268,245,279,259
+177.jpg,640,480,Simpang kiri dengan prioritas,129,151,192,216
+178.jpg,640,480,Tikungan ke kanan,216,226,237,251
+179.jpg,640,480,Tikungan ke kiri,58,110,124,169
+18.jpg,640,480,Peringatan orang menyeberang,154,217,192,251
+180.jpg,640,480,Jalanan menanjak,117,235,147,260
+180.jpg,640,480,Tikungan ke kanan,191,247,208,264
+180.jpg,640,480,Hati-hati,330,254,343,267
+181.jpg,640,480,Jembatan,60,82,142,165
+181.jpg,640,480,Simpang kiri dengan prioritas,186,212,216,243
+182.jpg,640,480,Lampu isyarat,157,241,189,276
+183.jpg,640,480,Dilarang berbalik arah,167,185,192,209
+184.jpg,640,480,Hati-hati,186,236,219,264
+184.jpg,640,480,Tikungan garda pertama kiri,224,246,249,271
+185.jpg,640,480,Dilarang berbalik arah,131,155,161,186
+186.jpg,640,480,Tikungan ke kanan,171,210,204,244
+187.jpg,640,480,Peringatan orang menyeberang,79,171,132,225
+188.jpg,640,480,Peringatan anak menyeberang,59,176,115,238
+189.jpg,640,480,Tikungan tajam ke kiri,246,244,262,261
+19.jpg,640,480,Tikungan ke kanan,243,247,259,266
+190.jpg,640,480,Simpang kanan dengan prioritas,244,299,268,325
+191.jpg,640,480,Peringatan anak menyeberang,160,244,196,279
+192.jpg,640,480,Lampu isyarat,120,239,158,279
+193.jpg,640,480,Dilarang berhenti,146,220,168,244
+194.jpg,640,480,Tikungan garda pertama kiri,64,161,117,213
+194.jpg,640,480,Peringatan tepi air,249,231,271,257
+195.jpg,640,480,Tikungan ke kiri,49,101,115,169
+196.jpg,640,480,Tikungan ke kiri,230,219,259,250
+197.jpg,640,480,Dilarang berbalik arah,189,203,209,223
+198.jpg,640,480,Peringatan tepi air,218,239,247,268
+199.jpg,640,480,Peringatan anak menyeberang,178,263,209,293
+2.jpg,640,480,Hati-hati,64,186,114,235
+2.jpg,640,480,Tikungan garda pertama kiri,151,214,189,251
+20.jpg,640,480,Jembatan,179,188,219,236
+200.jpg,640,480,Peringatan tepi air,204,229,238,263
+201.jpg,640,480,Dilarang parkir,110,183,133,209
+202.jpg,640,480,Simpang kiri dengan prioritas,165,171,214,219
+203.jpg,640,480,Lampu isyarat,160,181,201,217
+204.jpg,640,480,Jembatan,40,55,126,147
+204.jpg,640,480,Simpang kiri dengan prioritas,182,206,214,240
+205.jpg,640,480,Dilarang parkir,110,143,146,179
+206.jpg,640,480,Hati-hati,16,176,75,233
+206.jpg,640,480,Tikungan garda pertama kiri,126,213,169,254
+207.jpg,640,480,Lampu isyarat,146,242,179,280
+208.jpg,640,480,Akhir bangunan pemisah satu arah,171,169,206,204
+208.jpg,640,480,Dilarang berbalik arah,230,211,245,225
+209.jpg,640,480,Tikungan ke kanan,18,161,73,220
+21.jpg,640,480,Jalanan menanjak,49,212,80,244
+21.jpg,640,480,Tikungan ke kanan,153,236,170,254
+21.jpg,640,480,Hati-hati,307,251,323,267
+210.jpg,640,480,Dilarang berhenti,27,154,65,193
+211.jpg,640,480,Hati-hati,2,169,59,226
+211.jpg,640,480,Tikungan garda pertama kiri,114,209,161,254
+211.jpg,640,480,Peringatan tepi air,253,259,274,281
+212.jpg,640,480,Hati-hati,267,236,289,254
+213.jpg,640,480,Jembatan,174,174,219,218
+213.jpg,640,480,Simpang kiri dengan prioritas,206,226,227,247
+214.jpg,640,480,Jembatan,79,101,161,179
+214.jpg,640,480,Simpang kiri dengan prioritas,188,214,219,246
+215.jpg,640,480,Hati-hati,269,235,288,256
+216.jpg,640,480,Lampu isyarat,249,234,266,248
+217.jpg,640,480,Jembatan,182,191,224,233
+217.jpg,640,480,Simpang kiri dengan prioritas,198,235,221,258
+218.jpg,640,480,Peringatan orang menyeberang,172,219,206,253
+219.jpg,640,480,Peringatan orang menyeberang,168,224,206,259
+22.jpg,640,480,Simpang kiri dengan prioritas,179,171,222,216
+220.jpg,640,480,Dilarang parkir,113,149,147,186
+221.jpg,640,480,Hati-hati,181,170,232,214
+222.jpg,640,480,Peringatan tepi air,239,235,266,266
+223.jpg,640,480,Tikungan ke kiri,191,191,224,225
+224.jpg,640,480,Simpang kanan dengan prioritas,268,307,289,328
+225.jpg,640,480,Peringatan tepi air,182,185,223,229
+226.jpg,640,480,Dilarang berbalik arah,71,126,110,165
+227.jpg,640,480,Lampu isyarat,26,135,89,201
+228.jpg,640,480,Hati-hati,30,54,121,141
+229.jpg,640,480,Akhir bangunan pemisah satu arah,221,215,239,235
+23.jpg,640,480,Tikungan tajam ke kiri,144,184,181,224
+230.jpg,640,480,Jalanan menanjak,158,166,211,216
+231.jpg,640,480,Tikungan ke kiri,214,201,241,229
+232.jpg,640,480,Lampu isyarat,33,138,94,198
+233.jpg,640,480,Jalanan menanjak,3,72,79,150
+234.jpg,640,480,Hati-hati,251,216,280,242
+235.jpg,640,480,Hati-hati,268,237,287,258
+236.jpg,640,480,Jembatan,183,206,221,241
+236.jpg,640,480,Simpang kiri dengan prioritas,198,245,218,265
+237.jpg,640,480,Akhir bangunan pemisah satu arah,61,119,125,183
+237.jpg,640,480,Dilarang berbalik arah,206,218,223,236
+238.jpg,640,480,Peringatan tepi air,209,220,246,260
+239.jpg,640,480,Peringatan tepi air,188,189,223,224
+24.jpg,640,480,Tikungan tajam ke kiri,210,237,235,261
+240.jpg,640,480,Peringatan orang menyeberang,225,242,251,266
+241.jpg,640,480,Peringatan anak menyeberang,169,134,226,195
+242.jpg,640,480,Hati-hati,129,134,193,194
+243.jpg,640,480,Dilarang berbalik arah,184,185,208,210
+244.jpg,640,480,Dilarang berbalik arah,182,193,205,214
+245.jpg,640,480,Tikungan tajam ke kiri,205,237,228,260
+246.jpg,640,480,Simpang kiri dengan prioritas,160,167,211,220
+247.jpg,640,480,Dilarang berhenti,209,197,236,223
+248.jpg,640,480,Hati-hati,283,233,301,253
+249.jpg,640,480,Akhir bangunan pemisah satu arah,219,225,247,252
+25.jpg,640,480,Tikungan ke kiri,119,151,173,199
+250.jpg,640,480,Peringatan anak menyeberang,31,36,135,142
+251.jpg,640,480,Jalanan menanjak,213,192,247,228
+252.jpg,640,480,Hati-hati,88,198,140,244
+252.jpg,640,480,Tikungan garda pertama kiri,158,220,201,259
+253.jpg,640,480,Dilarang parkir,115,208,138,231
+254.jpg,640,480,Jalanan menanjak,12,87,86,153
+255.jpg,640,480,Tikungan ke kiri,96,246,150,300
+256.jpg,640,480,Peringatan tepi air,182,218,223,259
+257.jpg,640,480,Hati-hati,249,221,271,244
+258.jpg,640,480,Peringatan orang menyeberang,209,237,237,266
+259.jpg,640,480,Lampu isyarat,155,246,189,283
+26.jpg,640,480,Dilarang parkir,110,154,146,187
+260.jpg,640,480,Tikungan ke kiri,235,328,256,349
+261.jpg,640,480,Peringatan orang menyeberang,224,237,242,259
+262.jpg,640,480,Hati-hati,162,220,199,257
+262.jpg,640,480,Tikungan garda pertama kiri,207,233,235,264
+263.jpg,640,480,Tikungan ke kiri,154,151,199,196
+264.jpg,640,480,Simpang kanan dengan prioritas,239,296,264,319
+265.jpg,640,480,Simpang kanan dengan prioritas,61,192,122,261
+266.jpg,640,480,Dilarang parkir,113,202,133,224
+267.jpg,640,480,Tikungan garda pertama kiri,52,164,106,220
+267.jpg,640,480,Peringatan tepi air,244,240,266,261
+268.jpg,640,480,Simpang kiri dengan prioritas,136,139,190,196
+269.jpg,640,480,Peringatan anak menyeberang,199,271,228,299
+27.jpg,640,480,Jalanan menanjak,158,247,181,271
+27.jpg,640,480,Tikungan ke kanan,218,259,230,274
+27.jpg,640,480,Hati-hati,348,267,359,279
+270.jpg,640,480,Jalanan menanjak,1,66,76,144
+271.jpg,640,480,Peringatan orang menyeberang,198,236,225,264
+272.jpg,640,480,Peringatan orang menyeberang,224,234,250,256
+273.jpg,640,480,Dilarang berbalik arah,171,192,196,219
+274.jpg,640,480,Dilarang parkir,107,184,134,213
+275.jpg,640,480,Lampu isyarat,175,249,203,285
+276.jpg,640,480,Dilarang parkir,109,179,134,201
+277.jpg,640,480,Peringatan tepi air,142,193,189,243
+278.jpg,640,480,Peringatan orang menyeberang,215,240,242,266
+279.jpg,640,480,Hati-hati,119,199,163,239
+279.jpg,640,480,Tikungan garda pertama kiri,182,219,214,249
+28.jpg,640,480,Jalanan menanjak,181,169,220,209
+280.jpg,640,480,Akhir bangunan pemisah satu arah,89,140,147,195
+280.jpg,640,480,Dilarang berbalik arah,201,216,219,234
+281.jpg,640,480,Simpang kiri dengan prioritas,205,193,242,229
+282.jpg,640,480,Peringatan tepi air,94,116,162,184
+283.jpg,640,480,Tikungan ke kiri,243,211,271,234
+284.jpg,640,480,Peringatan anak menyeberang,230,170,275,214
+285.jpg,640,480,Simpang kanan dengan prioritas,98,227,153,284
+286.jpg,640,480,Hati-hati,122,202,166,243
+286.jpg,640,480,Tikungan garda pertama kiri,181,222,214,255
+286.jpg,640,480,Peringatan tepi air,268,256,288,276
+287.jpg,640,480,Tikungan ke kiri,177,184,215,220
+288.jpg,640,480,Peringatan orang menyeberang,189,227,220,257
+289.jpg,640,480,Simpang kiri dengan prioritas,184,177,231,223
+29.jpg,640,480,Jembatan,87,103,168,178
+29.jpg,640,480,Simpang kiri dengan prioritas,191,219,221,253
+290.jpg,640,480,Simpang kiri dengan prioritas,81,104,160,173
+291.jpg,640,480,Peringatan tepi air,198,211,233,249
+291.jpg,640,480,Jembatan,241,254,261,271
+292.jpg,640,480,Peringatan anak menyeberang,61,61,152,145
+293.jpg,640,480,Peringatan tepi air,78,171,140,229
+294.jpg,640,480,Lampu isyarat,239,229,256,246
+295.jpg,640,480,Hati-hati,61,78,146,157
+296.jpg,640,480,Tikungan tajam ke kiri,228,244,248,266
+297.jpg,640,480,Peringatan tepi air,17,79,99,161
+298.jpg,640,480,Peringatan anak menyeberang,172,261,206,293
+299.jpg,640,480,Dilarang parkir,106,181,132,210
+3.jpg,640,480,Dilarang berhenti,285,235,306,256
+30.jpg,640,480,Tikungan ke kiri,198,187,228,217
+300.jpg,640,480,Dilarang berhenti,14,151,54,192
+301.jpg,640,480,Akhir bangunan pemisah satu arah,171,185,213,224
+301.jpg,640,480,Dilarang berbalik arah,231,229,244,245
+302.jpg,640,480,Dilarang berhenti,209,246,231,264
+303.jpg,640,480,Peringatan tepi air,66,157,132,221
+303.jpg,640,480,Jembatan,201,252,226,276
+304.jpg,640,480,Dilarang parkir,114,203,136,224
+305.jpg,640,480,Akhir bangunan pemisah satu arah,199,184,234,217
+305.jpg,640,480,Dilarang berbalik arah,247,221,259,235
+306.jpg,640,480,Jalanan menanjak,279,211,307,241
+307.jpg,640,480,Dilarang berbalik arah,188,196,211,219
+308.jpg,640,480,Akhir bangunan pemisah satu arah,73,125,131,179
+308.jpg,640,480,Dilarang berbalik arah,204,209,222,228
+309.jpg,640,480,Hati-hati,24,174,88,234
+309.jpg,640,480,Tikungan garda pertama kiri,129,208,172,254
+309.jpg,640,480,Peringatan tepi air,255,256,276,279
+31.jpg,640,480,Jalanan menanjak,240,204,271,234
+310.jpg,640,480,Dilarang berhenti,206,256,226,279
+311.jpg,640,480,Dilarang parkir,110,180,139,209
+312.jpg,640,480,Akhir bangunan pemisah satu arah,99,139,156,193
+313.jpg,640,480,Tikungan ke kanan,207,231,235,262
+314.jpg,640,480,Jembatan,118,197,166,249
+315.jpg,640,480,Jalanan menanjak,86,219,111,249
+315.jpg,640,480,Tikungan ke kanan,169,238,185,256
+315.jpg,640,480,Hati-hati,314,250,329,264
+316.jpg,640,480,Hati-hati,264,231,286,257
+317.jpg,640,480,Peringatan tepi air,40,134,108,203
+317.jpg,640,480,Jembatan,196,244,220,270
+318.jpg,640,480,Dilarang berbalik arah,133,161,161,190
+319.jpg,640,480,Akhir bangunan pemisah satu arah,184,184,221,219
+32.jpg,640,480,Tikungan garda pertama kiri,57,158,112,221
+32.jpg,640,480,Peringatan tepi air,245,238,269,261
+320.jpg,640,480,Tikungan ke kanan,239,243,257,261
+321.jpg,640,480,Tikungan tajam ke kiri,153,193,189,229
+322.jpg,640,480,Lampu isyarat,111,227,149,270
+323.jpg,640,480,Dilarang berhenti,233,234,252,256
+324.jpg,640,480,Dilarang berbalik arah,5,69,54,123
+325.jpg,640,480,Dilarang berbalik arah,54,108,96,151
+326.jpg,640,480,Dilarang berhenti,214,166,250,200
+327.jpg,640,480,Simpang kiri dengan prioritas,129,133,186,192
+328.jpg,640,480,Peringatan orang menyeberang,64,166,121,219
+329.jpg,640,480,Jalanan menanjak,166,234,189,261
+329.jpg,640,480,Tikungan ke kanan,224,246,238,264
+329.jpg,640,480,Hati-hati,354,256,365,270
+33.jpg,640,480,Akhir bangunan pemisah satu arah,213,211,243,239
+330.jpg,640,480,Simpang kanan dengan prioritas,268,312,289,333
+331.jpg,640,480,Dilarang parkir,116,186,145,216
+332.jpg,640,480,Peringatan tepi air,191,203,226,242
+332.jpg,640,480,Jembatan,241,255,262,274
+333.jpg,640,480,Jalanan menanjak,214,194,251,231
+334.jpg,640,480,Peringatan orang menyeberang,125,203,168,246
+335.jpg,640,480,Tikungan ke kiri,106,134,161,192
+336.jpg,640,480,Dilarang berhenti,148,139,201,187
+337.jpg,640,480,Simpang kanan dengan prioritas,21,171,98,250
+338.jpg,640,480,Peringatan anak menyeberang,84,195,137,246
+339.jpg,640,480,Dilarang parkir,109,114,155,158
+34.jpg,640,480,Akhir bangunan pemisah satu arah,11,71,87,158
+34.jpg,640,480,Dilarang berbalik arah,194,219,214,239
+340.jpg,640,480,Tikungan tajam ke kiri,200,232,222,256
+341.jpg,640,480,Peringatan tepi air,91,178,146,228
+342.jpg,640,480,Akhir bangunan pemisah satu arah,154,161,194,202
+342.jpg,640,480,Dilarang berbalik arah,225,213,238,229
+343.jpg,640,480,Jembatan,186,219,225,256
+344.jpg,640,480,Dilarang parkir,113,162,144,191
+345.jpg,640,480,Akhir bangunan pemisah satu arah,149,157,190,201
+346.jpg,640,480,Hati-hati,125,196,167,239
+346.jpg,640,480,Tikungan garda pertama kiri,179,216,214,249
+346.jpg,640,480,Peringatan tepi air,263,246,280,265
+347.jpg,640,480,Akhir bangunan pemisah satu arah,226,220,246,242
+348.jpg,640,480,Hati-hati,161,159,214,212
+349.jpg,640,480,Tikungan ke kanan,46,171,101,221
+35.jpg,640,480,Simpang kanan dengan prioritas,203,294,234,323
+350.jpg,640,480,Hati-hati,220,199,259,235
+351.jpg,640,480,Dilarang berbalik arah,94,143,135,177
+352.jpg,640,480,Akhir bangunan pemisah satu arah,26,69,96,136
+352.jpg,640,480,Dilarang berbalik arah,194,181,215,201
+353.jpg,640,480,Peringatan tepi air,234,239,264,271
+354.jpg,640,480,Akhir bangunan pemisah satu arah,206,199,236,228
+354.jpg,640,480,Dilarang berbalik arah,246,231,259,243
+355.jpg,640,480,Tikungan tajam ke kiri,187,219,215,244
+356.jpg,640,480,Dilarang berhenti,180,143,224,184
+357.jpg,640,480,Tikungan ke kiri,50,101,124,171
+358.jpg,640,480,Jalanan menanjak,177,224,199,247
+358.jpg,640,480,Tikungan ke kanan,231,235,246,249
+358.jpg,640,480,Hati-hati,358,243,369,258
+359.jpg,640,480,Simpang kiri dengan prioritas,256,224,281,246
+36.jpg,640,480,Dilarang berhenti,188,144,231,189
+360.jpg,640,480,Tikungan ke kiri,5,189,73,263
+361.jpg,640,480,Tikungan ke kiri,24,84,94,163
+362.jpg,640,480,Simpang kanan dengan prioritas,241,301,269,328
+363.jpg,640,480,Simpang kiri dengan prioritas,249,217,275,242
+364.jpg,640,480,Peringatan anak menyeberang,206,276,229,304
+365.jpg,640,480,Jalanan menanjak,113,228,142,253
+365.jpg,640,480,Tikungan ke kanan,189,241,204,258
+365.jpg,640,480,Hati-hati,329,249,342,263
+366.jpg,640,480,Tikungan ke kiri,130,154,175,196
+367.jpg,640,480,Tikungan garda pertama kiri,99,181,148,234
+367.jpg,640,480,Peringatan tepi air,254,247,276,271
+368.jpg,640,480,Peringatan anak menyeberang,178,138,231,194
+369.jpg,640,480,Tikungan tajam ke kiri,196,224,221,249
+37.jpg,640,480,Akhir bangunan pemisah satu arah,211,206,243,236
+370.jpg,640,480,Dilarang berbalik arah,177,158,201,180
+371.jpg,640,480,Lampu isyarat,105,161,154,214
+372.jpg,640,480,Hati-hati,139,213,175,255
+372.jpg,640,480,Tikungan garda pertama kiri,187,230,220,264
+372.jpg,640,480,Peringatan tepi air,267,260,285,279
+373.jpg,640,480,Simpang kiri dengan prioritas,172,166,219,212
+374.jpg,640,480,Jembatan,54,202,103,255
+375.jpg,640,480,Peringatan anak menyeberang,84,73,169,149
+376.jpg,640,480,Dilarang berhenti,59,29,131,99
+377.jpg,640,480,Lampu isyarat,105,226,145,268
+378.jpg,640,480,Hati-hati,199,180,244,226
+379.jpg,640,480,Tikungan tajam ke kiri,245,241,262,262
+38.jpg,640,480,Simpang kiri dengan prioritas,173,182,216,231
+380.jpg,640,480,Jembatan,121,123,187,188
+380.jpg,640,480,Simpang kiri dengan prioritas,198,215,224,245
+381.jpg,640,480,Tikungan ke kiri,234,217,261,244
+382.jpg,640,480,Jembatan,172,179,220,224
+382.jpg,640,480,Simpang kiri dengan prioritas,199,228,224,253
+383.jpg,640,480,Lampu isyarat,47,196,93,244
+384.jpg,640,480,Jembatan,175,186,216,225
+384.jpg,640,480,Simpang kiri dengan prioritas,196,229,219,249
+385.jpg,640,480,Jalanan menanjak,73,217,101,251
+385.jpg,640,480,Tikungan ke kanan,164,240,181,258
+385.jpg,640,480,Hati-hati,314,252,327,266
+386.jpg,640,480,Jembatan,181,217,218,255
+387.jpg,640,480,Jembatan,29,199,89,257
+388.jpg,640,480,Tikungan tajam ke kiri,161,206,199,241
+389.jpg,640,480,Simpang kiri dengan prioritas,171,181,219,231
+39.jpg,640,480,Dilarang berhenti,203,155,247,191
+390.jpg,640,480,Lampu isyarat,19,129,77,194
+391.jpg,640,480,Simpang kiri dengan prioritas,286,223,303,242
+392.jpg,640,480,Simpang kanan dengan prioritas,270,312,289,334
+393.jpg,640,480,Tikungan tajam ke kiri,198,223,221,251
+394.jpg,640,480,Tikungan ke kiri,211,195,245,228
+395.jpg,640,480,Jalanan menanjak,167,227,193,254
+395.jpg,640,480,Tikungan ke kanan,228,239,240,255
+395.jpg,640,480,Hati-hati,354,246,366,262
+396.jpg,640,480,Dilarang berhenti,269,239,289,259
+397.jpg,640,480,Lampu isyarat,237,227,254,245
+398.jpg,640,480,Peringatan anak menyeberang,148,234,190,276
+399.jpg,640,480,Peringatan tepi air,196,197,233,233
+4.jpg,640,480,Jembatan,166,156,216,206
+4.jpg,640,480,Simpang kiri dengan prioritas,204,214,226,239
+40.jpg,640,480,Jalanan menanjak,224,194,256,226
+400.jpg,640,480,Lampu isyarat,166,243,194,277
+401.jpg,640,480,Dilarang berbalik arah,45,98,89,140
+402.jpg,640,480,Simpang kanan dengan prioritas,97,215,154,273
+403.jpg,640,480,Jalanan menanjak,67,128,129,181
+404.jpg,640,480,Dilarang berhenti,99,91,161,151
+405.jpg,640,480,Jembatan,154,204,201,251
+406.jpg,640,480,Simpang kiri dengan prioritas,166,165,216,216
+407.jpg,640,480,Peringatan anak menyeberang,156,239,198,279
+408.jpg,640,480,Akhir bangunan pemisah satu arah,214,208,243,240
+409.jpg,640,480,Peringatan anak menyeberang,216,274,246,302
+41.jpg,640,480,Dilarang berhenti,326,234,339,251
+410.jpg,640,480,Tikungan ke kiri,214,204,247,234
+411.jpg,640,480,Tikungan tajam ke kiri,166,206,200,238
+412.jpg,640,480,Tikungan ke kanan,243,247,259,264
+413.jpg,640,480,Simpang kiri dengan prioritas,176,189,214,231
+414.jpg,640,480,Simpang kanan dengan prioritas,103,217,158,272
+415.jpg,640,480,Simpang kanan dengan prioritas,222,293,253,324
+416.jpg,640,480,Tikungan tajam ke kiri,186,218,216,244
+417.jpg,640,480,Jalanan menanjak,23,206,55,241
+417.jpg,640,480,Tikungan ke kanan,141,236,161,254
+417.jpg,640,480,Hati-hati,303,251,319,267
+418.jpg,640,480,Simpang kanan dengan prioritas,248,301,273,325
+419.jpg,640,480,Peringatan anak menyeberang,208,279,239,305
+42.jpg,640,480,Jalanan menanjak,71,119,131,186
+420.jpg,640,480,Dilarang parkir,115,206,137,228
+421.jpg,640,480,Tikungan tajam ke kiri,248,239,266,259
+422.jpg,640,480,Tikungan tajam ke kiri,246,239,266,256
+423.jpg,640,480,Jembatan,67,85,150,171
+423.jpg,640,480,Simpang kiri dengan prioritas,188,217,219,247
+424.jpg,640,480,Dilarang berhenti,146,232,171,257
+425.jpg,640,480,Jalanan menanjak,142,233,166,259
+425.jpg,640,480,Tikungan ke kanan,206,245,222,262
+425.jpg,640,480,Hati-hati,340,254,352,266
+426.jpg,640,480,Dilarang berbalik arah,151,168,180,194
+427.jpg,640,480,Tikungan ke kiri,188,189,223,221
+428.jpg,640,480,Tikungan tajam ke kiri,187,218,216,247
+429.jpg,640,480,Peringatan tepi air,86,120,151,187
+43.jpg,640,480,Jembatan,1,188,51,250
+43.jpg,640,480,Dilarang berhenti,341,224,359,244
+430.jpg,640,480,Simpang kiri dengan prioritas,91,106,165,184
+431.jpg,640,480,Akhir bangunan pemisah satu arah,203,186,234,221
+432.jpg,640,480,Dilarang berhenti,299,231,311,247
+433.jpg,640,480,Hati-hati,86,189,134,238
+433.jpg,640,480,Tikungan garda pertama kiri,161,216,201,254
+433.jpg,640,480,Peringatan tepi air,266,256,285,276
+434.jpg,640,480,Jembatan,136,198,184,247
+434.jpg,640,480,Dilarang berhenti,414,190,431,208
+435.jpg,640,480,Jalanan menanjak,127,231,154,259
+435.jpg,640,480,Tikungan ke kanan,196,244,211,264
+435.jpg,640,480,Hati-hati,333,252,346,267
+436.jpg,640,480,Akhir bangunan pemisah satu arah,221,220,247,241
+437.jpg,640,480,Jalanan menanjak,28,209,66,241
+437.jpg,640,480,Tikungan ke kanan,144,234,159,253
+437.jpg,640,480,Hati-hati,304,248,317,264
+438.jpg,640,480,Hati-hati,129,176,172,214
+439.jpg,640,480,Hati-hati,120,202,167,246
+439.jpg,640,480,Tikungan garda pertama kiri,180,221,211,254
+439.jpg,640,480,Peringatan tepi air,265,252,284,272
+44.jpg,640,480,Tikungan tajam ke kiri,188,215,216,241
+440.jpg,640,480,Jalanan menanjak,32,99,107,172
+441.jpg,640,480,Hati-hati,156,223,191,258
+441.jpg,640,480,Tikungan garda pertama kiri,201,237,230,265
+442.jpg,640,480,Simpang kanan dengan prioritas,257,297,279,323
+443.jpg,640,480,Tikungan tajam ke kiri,248,236,265,256
+444.jpg,640,480,Peringatan orang menyeberang,204,244,233,271
+445.jpg,640,480,Hati-hati,11,166,72,231
+445.jpg,640,480,Tikungan garda pertama kiri,122,204,167,251
+445.jpg,640,480,Peringatan tepi air,254,259,274,279
+446.jpg,640,480,Simpang kiri dengan prioritas,218,196,251,231
+447.jpg,640,480,Dilarang berhenti,122,208,152,236
+448.jpg,640,480,Peringatan orang menyeberang,97,186,149,240
+449.jpg,640,480,Peringatan tepi air,187,201,228,242
+449.jpg,640,480,Jembatan,243,255,265,277
+45.jpg,640,480,Dilarang parkir,111,166,140,194
+450.jpg,640,480,Dilarang parkir,108,184,136,212
+451.jpg,640,480,Peringatan tepi air,179,199,221,239
+451.jpg,640,480,Jembatan,241,251,260,269
+452.jpg,640,480,Tikungan ke kanan,107,197,152,239
+453.jpg,640,480,Dilarang parkir,111,161,144,197
+454.jpg,640,480,Hati-hati,160,226,198,265
+454.jpg,640,480,Tikungan garda pertama kiri,204,241,234,273
+454.jpg,640,480,Peringatan tepi air,274,270,294,289
+455.jpg,640,480,Akhir bangunan pemisah satu arah,83,124,139,189
+455.jpg,640,480,Dilarang berbalik arah,202,219,219,240
+456.jpg,640,480,Jalanan menanjak,6,76,81,153
+457.jpg,640,480,Simpang kiri dengan prioritas,95,111,173,184
+458.jpg,640,480,Simpang kiri dengan prioritas,119,124,186,195
+459.jpg,640,480,Lampu isyarat,175,254,204,288
+46.jpg,640,480,Peringatan orang menyeberang,219,237,245,266
+460.jpg,640,480,Simpang kiri dengan prioritas,9,59,113,155
+461.jpg,640,480,Dilarang berbalik arah,193,207,216,231
+462.jpg,640,480,Simpang kanan dengan prioritas,176,285,209,324
+463.jpg,640,480,Tikungan garda pertama kiri,82,177,138,232
+463.jpg,640,480,Peringatan tepi air,251,244,273,266
+464.jpg,640,480,Peringatan tepi air,107,176,164,234
+464.jpg,640,480,Jembatan,211,256,235,279
+465.jpg,640,480,Tikungan garda pertama kiri,44,163,107,235
+465.jpg,640,480,Peringatan tepi air,244,251,269,279
+466.jpg,640,480,Peringatan anak menyeberang,124,219,173,267
+467.jpg,640,480,Peringatan tepi air,165,171,214,218
+468.jpg,640,480,Peringatan tepi air,219,236,245,265
+469.jpg,640,480,Simpang kiri dengan prioritas,31,73,123,164
+47.jpg,640,480,Jembatan,325,181,364,218
+470.jpg,640,480,Tikungan ke kiri,41,209,106,272
+471.jpg,640,480,Dilarang berhenti,96,193,126,226
+472.jpg,640,480,Lampu isyarat,56,206,109,262
+473.jpg,640,480,Peringatan tepi air,203,223,236,255
+474.jpg,640,480,Akhir bangunan pemisah satu arah,228,221,248,241
+475.jpg,640,480,Jalanan menanjak,65,210,94,244
+475.jpg,640,480,Tikungan ke kanan,161,234,176,251
+475.jpg,640,480,Hati-hati,311,245,326,261
+476.jpg,640,480,Peringatan orang menyeberang,117,199,163,241
+477.jpg,640,480,Dilarang berhenti,86,74,147,134
+478.jpg,640,480,Hati-hati,20,80,117,173
+478.jpg,640,480,Peringatan tepi air,238,244,267,273
+479.jpg,640,480,Hati-hati,241,216,271,246
+48.jpg,640,480,Peringatan orang menyeberang,44,146,115,211
+480.jpg,640,480,Akhir bangunan pemisah satu arah,1,64,71,147
+480.jpg,640,480,Dilarang berbalik arah,197,208,216,226
+481.jpg,640,480,Dilarang berbalik arah,86,133,129,173
+482.jpg,640,480,Peringatan anak menyeberang,26,38,122,134
+483.jpg,640,480,Dilarang berhenti,81,61,149,127
+484.jpg,640,480,Dilarang parkir,111,165,139,194
+485.jpg,640,480,Akhir bangunan pemisah satu arah,223,219,247,246
+486.jpg,640,480,Peringatan anak menyeberang,181,151,236,196
+487.jpg,640,480,Lampu isyarat,74,146,124,198
+488.jpg,640,480,Peringatan orang menyeberang,8,141,76,209
+489.jpg,640,480,Dilarang berhenti,133,216,159,242
+49.jpg,640,480,Peringatan orang menyeberang,181,239,213,272
+490.jpg,640,480,Akhir bangunan pemisah satu arah,224,223,249,246
+491.jpg,640,480,Dilarang berbalik arah,24,86,71,139
+492.jpg,640,480,Lampu isyarat,134,246,167,284
+493.jpg,640,480,Lampu isyarat,141,246,173,281
+494.jpg,640,480,Peringatan tepi air,11,123,86,206
+494.jpg,640,480,Jembatan,188,249,216,274
+495.jpg,640,480,Tikungan garda pertama kiri,34,166,97,229
+495.jpg,640,480,Peringatan tepi air,241,247,262,271
+496.jpg,640,480,Hati-hati,173,220,205,251
+496.jpg,640,480,Tikungan garda pertama kiri,212,231,241,260
+497.jpg,640,480,Tikungan tajam ke kiri,145,192,184,231
+498.jpg,640,480,Peringatan tepi air,54,146,121,213
+499.jpg,640,480,Peringatan anak menyeberang,236,179,275,217
+5.jpg,640,480,Simpang kanan dengan prioritas,232,298,260,324
+50.jpg,640,480,Simpang kiri dengan prioritas,174,166,219,215
+500.jpg,640,480,Dilarang parkir,105,157,137,190
+501.jpg,640,480,Peringatan anak menyeberang,127,108,200,175
+502.jpg,640,480,Peringatan anak menyeberang,6,159,71,231
+503.jpg,640,480,Simpang kanan dengan prioritas,71,194,135,263
+504.jpg,640,480,Tikungan ke kiri,189,184,226,219
+505.jpg,640,480,Peringatan orang menyeberang,174,215,207,251
+506.jpg,640,480,Peringatan orang menyeberang,159,226,200,263
+507.jpg,640,480,Dilarang berbalik arah,146,170,178,197
+508.jpg,640,480,Lampu isyarat,84,216,124,266
+509.jpg,640,480,Simpang kiri dengan prioritas,81,106,160,180
+51.jpg,640,480,Simpang kiri dengan prioritas,143,151,201,214
+510.jpg,640,480,Dilarang berhenti,264,233,283,256
+511.jpg,640,480,Dilarang berbalik arah,169,172,200,199
+512.jpg,640,480,Peringatan orang menyeberang,173,231,207,266
+513.jpg,640,480,Dilarang berhenti,217,209,244,239
+514.jpg,640,480,Peringatan tepi air,212,206,240,240
+515.jpg,640,480,Simpang kanan dengan prioritas,227,297,259,324
+516.jpg,640,480,Dilarang berhenti,225,250,246,273
+517.jpg,640,480,Lampu isyarat,149,176,188,216
+518.jpg,640,480,Simpang kanan dengan prioritas,211,292,242,323
+519.jpg,640,480,Peringatan tepi air,201,201,232,231
+52.jpg,640,480,Peringatan anak menyeberang,233,186,269,224
+520.jpg,640,480,Lampu isyarat,121,176,165,217
+521.jpg,640,480,Lampu isyarat,79,151,133,204
+522.jpg,640,480,Tikungan tajam ke kiri,51,124,112,187
+523.jpg,640,480,Hati-hati,66,181,119,236
+523.jpg,640,480,Tikungan garda pertama kiri,152,212,190,251
+523.jpg,640,480,Peringatan tepi air,261,258,281,277
+524.jpg,640,480,Peringatan orang menyeberang,221,246,241,264
+525.jpg,640,480,Dilarang parkir,107,171,134,201
+526.jpg,640,480,Jembatan,180,211,218,247
+527.jpg,640,480,Simpang kanan dengan prioritas,184,284,221,316
+528.jpg,640,480,Tikungan ke kiri,158,165,204,209
+529.jpg,640,480,Dilarang berhenti,106,194,137,229
+53.jpg,640,480,Peringatan anak menyeberang,191,264,219,294
+530.jpg,640,480,Tikungan ke kiri,181,181,218,219
+531.jpg,640,480,Lampu isyarat,136,176,179,214
+532.jpg,640,480,Dilarang parkir,109,127,151,169
+533.jpg,640,480,Peringatan tepi air,56,104,129,170
+534.jpg,640,480,Tikungan tajam ke kiri,214,236,237,257
+535.jpg,640,480,Jalanan menanjak,112,157,170,211
+536.jpg,640,480,Tikungan ke kiri,61,109,127,173
+537.jpg,640,480,Jembatan,251,168,292,211
+538.jpg,640,480,Tikungan tajam ke kiri,202,227,226,252
+539.jpg,640,480,Jembatan,196,181,241,225
+54.jpg,640,480,Tikungan ke kanan,213,234,240,256
+540.jpg,640,480,Tikungan ke kiri,158,171,201,209
+541.jpg,640,480,Dilarang berbalik arah,149,171,179,198
+542.jpg,640,480,Dilarang berhenti,234,219,256,244
+543.jpg,640,480,Peringatan anak menyeberang,244,199,273,224
+544.jpg,640,480,Jalanan menanjak,186,176,226,218
+545.jpg,640,480,Jalanan menanjak,98,144,157,191
+546.jpg,640,480,Peringatan tepi air,192,213,231,247
+546.jpg,640,480,Jembatan,240,254,262,272
+547.jpg,640,480,Jalanan menanjak,105,151,158,204
+548.jpg,640,480,Lampu isyarat,247,231,266,246
+549.jpg,640,480,Lampu isyarat,66,139,122,199
+55.jpg,640,480,Simpang kiri dengan prioritas,178,180,219,223
+550.jpg,640,480,Peringatan tepi air,191,205,230,245
+550.jpg,640,480,Jembatan,241,253,261,274
+551.jpg,640,480,Peringatan anak menyeberang,241,189,275,221
+552.jpg,640,480,Peringatan orang menyeberang,167,219,205,256
+553.jpg,640,480,Lampu isyarat,252,232,269,247
+554.jpg,640,480,Tikungan ke kiri,233,224,257,248
+555.jpg,640,480,Simpang kanan dengan prioritas,164,275,206,320
+556.jpg,640,480,Akhir bangunan pemisah satu arah,221,221,250,246
+557.jpg,640,480,Hati-hati,261,228,283,254
+558.jpg,640,480,Hati-hati,94,103,172,173
+559.jpg,640,480,Jalanan menanjak,181,219,201,244
+559.jpg,640,480,Tikungan ke kanan,234,231,244,246
+559.jpg,640,480,Hati-hati,358,242,368,256
+56.jpg,640,480,Simpang kiri dengan prioritas,109,117,179,181
+560.jpg,640,480,Hati-hati,121,206,166,246
+560.jpg,640,480,Tikungan garda pertama kiri,181,224,216,257
+560.jpg,640,480,Peringatan tepi air,269,255,285,274
+561.jpg,640,480,Tikungan ke kanan,224,237,244,259
+562.jpg,640,480,Dilarang parkir,111,201,134,222
+563.jpg,640,480,Tikungan ke kiri,81,238,139,289
+564.jpg,640,480,Jalanan menanjak,211,200,252,237
+565.jpg,640,480,Peringatan orang menyeberang,224,244,249,269
+566.jpg,640,480,Simpang kanan dengan prioritas,236,290,262,316
+567.jpg,640,480,Tikungan tajam ke kiri,173,206,206,238
+568.jpg,640,480,Simpang kanan dengan prioritas,271,309,294,330
+569.jpg,640,480,Dilarang berbalik arah,135,170,171,199
+57.jpg,640,480,Peringatan tepi air,136,158,189,214
+570.jpg,640,480,Dilarang berbalik arah,58,106,101,149
+571.jpg,640,480,Lampu isyarat,74,210,116,261
+572.jpg,640,480,Jembatan,104,116,176,190
+572.jpg,640,480,Simpang kiri dengan prioritas,193,219,222,246
+573.jpg,640,480,Tikungan tajam ke kiri,234,247,253,269
+574.jpg,640,480,Tikungan tajam ke kiri,246,239,266,261
+575.jpg,640,480,Jembatan,149,151,206,211
+575.jpg,640,480,Simpang kiri dengan prioritas,206,229,231,255
+576.jpg,640,480,Tikungan garda pertama kiri,94,184,144,231
+576.jpg,640,480,Peringatan tepi air,255,244,275,264
+577.jpg,640,480,Simpang kanan dengan prioritas,132,273,174,318
+578.jpg,640,480,Peringatan anak menyeberang,139,231,181,270
+579.jpg,640,480,Peringatan orang menyeberang,132,206,174,251
+58.jpg,640,480,Jalanan menanjak,96,225,123,256
+58.jpg,640,480,Tikungan ke kanan,177,241,191,259
+58.jpg,640,480,Hati-hati,319,252,334,267
+580.jpg,640,480,Tikungan ke kiri,92,129,151,190
+581.jpg,640,480,Dilarang berbalik arah,156,176,187,205
+582.jpg,640,480,Peringatan orang menyeberang,215,246,241,274
+583.jpg,640,480,Dilarang berbalik arah,124,156,161,186
+584.jpg,640,480,Hati-hati,170,221,203,257
+584.jpg,640,480,Tikungan garda pertama kiri,210,235,238,263
+584.jpg,640,480,Peringatan tepi air,278,261,295,279
+585.jpg,640,480,Peringatan anak menyeberang,216,273,242,302
+586.jpg,640,480,Jalanan menanjak,81,219,109,250
+586.jpg,640,480,Tikungan ke kanan,168,238,184,254
+586.jpg,640,480,Hati-hati,315,249,329,263
+587.jpg,640,480,Jembatan,69,194,123,249
+587.jpg,640,480,Dilarang berhenti,377,203,393,221
+588.jpg,640,480,Tikungan ke kiri,209,193,244,226
+589.jpg,640,480,Peringatan anak menyeberang,94,82,176,161
+59.jpg,640,480,Peringatan orang menyeberang,189,226,218,259
+590.jpg,640,480,Simpang kanan dengan prioritas,113,239,165,289
+591.jpg,640,480,Peringatan anak menyeberang,104,82,188,165
+592.jpg,640,480,Tikungan tajam ke kiri,196,218,221,246
+593.jpg,640,480,Tikungan tajam ke kiri,243,244,264,262
+594.jpg,640,480,Hati-hati,248,221,275,249
+595.jpg,640,480,Tikungan ke kiri,246,209,271,236
+596.jpg,640,480,Akhir bangunan pemisah satu arah,160,174,201,214
+596.jpg,640,480,Dilarang berbalik arah,224,221,240,235
+597.jpg,640,480,Peringatan tepi air,197,205,226,236
+598.jpg,640,480,Peringatan anak menyeberang,246,196,278,231
+599.jpg,640,480,Akhir bangunan pemisah satu arah,132,157,179,204
+599.jpg,640,480,Dilarang berbalik arah,217,219,234,236
+6.jpg,640,480,Akhir bangunan pemisah satu arah,114,134,166,189
+6.jpg,640,480,Dilarang berbalik arah,213,210,231,229
+60.jpg,640,480,Simpang kanan dengan prioritas,141,279,180,316
+600.jpg,640,480,Simpang kiri dengan prioritas,60,82,141,164
+601.jpg,640,480,Jalanan menanjak,89,148,146,204
+602.jpg,640,480,Peringatan anak menyeberang,194,152,248,203
+603.jpg,640,480,Tikungan garda pertama kiri,73,169,132,221
+603.jpg,640,480,Peringatan tepi air,251,238,273,261
+604.jpg,640,480,Simpang kanan dengan prioritas,257,299,282,322
+605.jpg,640,480,Tikungan tajam ke kiri,220,240,244,263
+606.jpg,640,480,Dilarang berhenti,301,223,319,243
+607.jpg,640,480,Tikungan ke kiri,78,88,149,164
+608.jpg,640,480,Jalanan menanjak,44,106,115,174
+609.jpg,640,480,Hati-hati,102,205,154,255
+609.jpg,640,480,Tikungan garda pertama kiri,172,231,211,268
+609.jpg,640,480,Peringatan tepi air,271,270,288,287
+61.jpg,640,480,Tikungan ke kiri,113,144,166,199
+610.jpg,640,480,Tikungan tajam ke kiri,189,219,216,246
+611.jpg,640,480,Tikungan garda pertama kiri,1,159,64,229
+611.jpg,640,480,Peringatan tepi air,231,248,253,271
+612.jpg,640,480,Dilarang parkir,110,124,152,170
+613.jpg,640,480,Lampu isyarat,38,198,83,245
+614.jpg,640,480,Lampu isyarat,86,219,128,264
+615.jpg,640,480,Dilarang parkir,108,183,134,209
+616.jpg,640,480,Simpang kiri dengan prioritas,142,149,199,203
+617.jpg,640,480,Jembatan,174,189,221,235
+617.jpg,640,480,Simpang kiri dengan prioritas,201,241,224,263
+618.jpg,640,480,Simpang kanan dengan prioritas,92,210,151,270
+619.jpg,640,480,Peringatan orang menyeberang,226,240,246,261
+62.jpg,640,480,Dilarang parkir,109,149,149,181
+620.jpg,640,480,Simpang kiri dengan prioritas,51,84,133,167
+621.jpg,640,480,Lampu isyarat,7,124,70,190
+622.jpg,640,480,Dilarang berhenti,137,219,164,246
+623.jpg,640,480,Dilarang parkir,110,132,151,175
+624.jpg,640,480,Dilarang berhenti,77,55,144,117
+625.jpg,640,480,Simpang kanan dengan prioritas,116,239,162,286
+626.jpg,640,480,Simpang kiri dengan prioritas,191,182,235,224
+627.jpg,640,480,Tikungan tajam ke kiri,225,239,245,260
+628.jpg,640,480,Dilarang berbalik arah,184,181,211,205
+629.jpg,640,480,Dilarang parkir,109,150,144,187
+63.jpg,640,480,Tikungan tajam ke kiri,181,213,214,241
+630.jpg,640,480,Hati-hati,72,189,132,242
+630.jpg,640,480,Tikungan garda pertama kiri,159,218,196,254
+630.jpg,640,480,Peringatan tepi air,265,256,284,272
+631.jpg,640,480,Tikungan ke kanan,177,221,212,252
+632.jpg,640,480,Peringatan anak menyeberang,248,194,281,229
+633.jpg,640,480,Peringatan orang menyeberang,223,241,244,264
+634.jpg,640,480,Peringatan orang menyeberang,171,231,205,263
+635.jpg,640,480,Dilarang berhenti,130,219,156,246
+636.jpg,640,480,Akhir bangunan pemisah satu arah,214,213,241,242
+637.jpg,640,480,Peringatan tepi air,51,142,119,211
+637.jpg,640,480,Jembatan,197,251,221,271
+638.jpg,640,480,Akhir bangunan pemisah satu arah,226,217,247,241
+639.jpg,640,480,Tikungan ke kiri,224,211,256,243
+64.jpg,640,480,Tikungan tajam ke kiri,179,215,212,246
+65.jpg,640,480,Simpang kiri dengan prioritas,69,100,154,176
+66.jpg,640,480,Dilarang berhenti,312,230,329,248
+67.jpg,640,480,Akhir bangunan pemisah satu arah,223,211,244,234
+68.jpg,640,480,Peringatan orang menyeberang,224,229,244,254
+69.jpg,640,480,Dilarang parkir,109,159,143,187
+7.jpg,640,480,Simpang kanan dengan prioritas,122,263,172,309
+70.jpg,640,480,Tikungan garda pertama kiri,73,157,127,215
+70.jpg,640,480,Peringatan tepi air,251,232,273,259
+71.jpg,640,480,Hati-hati,63,109,147,193
+71.jpg,640,480,Peringatan tepi air,244,250,273,278
+72.jpg,640,480,Simpang kanan dengan prioritas,257,297,279,322
+73.jpg,640,480,Tikungan ke kiri,234,221,261,246
+74.jpg,640,480,Hati-hati,91,184,144,239
+74.jpg,640,480,Tikungan garda pertama kiri,163,210,202,254
+74.jpg,640,480,Peringatan tepi air,266,256,287,279
+75.jpg,640,480,Akhir bangunan pemisah satu arah,228,231,254,259
+76.jpg,640,480,Tikungan ke kiri,256,233,276,252
+77.jpg,640,480,Dilarang berbalik arah,112,144,150,180
+78.jpg,640,480,Dilarang parkir,111,204,138,229
+79.jpg,640,480,Hati-hati,184,209,215,244
+79.jpg,640,480,Tikungan garda pertama kiri,221,221,246,249
+8.jpg,640,480,Tikungan ke kiri,220,215,246,240
+80.jpg,640,480,Dilarang berbalik arah,76,130,118,174
+81.jpg,640,480,Tikungan tajam ke kiri,145,191,185,230
+82.jpg,640,480,Tikungan ke kanan,224,234,243,255
+83.jpg,640,480,Peringatan orang menyeberang,190,227,220,257
+84.jpg,640,480,Akhir bangunan pemisah satu arah,191,188,225,220
+84.jpg,640,480,Dilarang berbalik arah,242,225,255,237
+85.jpg,640,480,Simpang kanan dengan prioritas,251,294,276,319
+86.jpg,640,480,Peringatan orang menyeberang,104,198,156,245
+87.jpg,640,480,Dilarang berbalik arah,84,135,123,174
+88.jpg,640,480,Jembatan,168,155,219,208
+88.jpg,640,480,Simpang kiri dengan prioritas,205,217,229,244
+89.jpg,640,480,Tikungan ke kanan,171,218,202,254
+9.jpg,640,480,Tikungan tajam ke kiri,191,219,219,246
+90.jpg,640,480,Hati-hati,145,221,182,254
+90.jpg,640,480,Tikungan garda pertama kiri,195,234,223,262
+91.jpg,640,480,Simpang kanan dengan prioritas,81,206,144,268
+92.jpg,640,480,Dilarang berhenti,37,164,77,204
+93.jpg,640,480,Jembatan,53,70,137,148
+93.jpg,640,480,Simpang kiri dengan prioritas,181,202,213,238
+94.jpg,640,480,Akhir bangunan pemisah satu arah,225,225,248,251
+95.jpg,640,480,Dilarang parkir,109,141,147,179
+96.jpg,640,480,Dilarang berhenti,125,204,156,235
+97.jpg,640,480,Dilarang parkir,106,171,136,206
+98.jpg,640,480,Tikungan ke kanan,246,240,261,257
+99.jpg,640,480,Peringatan tepi air,74,161,139,217
+99.jpg,640,480,Jembatan,203,248,226,271

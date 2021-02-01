@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>80.jpg</filename>
+	<path>D:\Skripsi\Pengenalan Rambu\Project\Pelatihan model 2\images\train\80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dilarang berbalik arah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>130</ymin>
+			<xmax>118</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
